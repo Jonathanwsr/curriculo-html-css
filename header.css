@@ -1,0 +1,47 @@
+.header {
+    display: flex;
+    flex-direction: column;
+    justify-self: center;
+    align-items: center;
+    margin: .5rem;
+    padding: .5 rem;
+    border: 1px solid;
+    border-radius: .5rem;
+    background: radial-gradient;
+    background: linear-gradient(to bottom, #0e0a0a, #da2525);
+    
+   
+   }
+
+.header .photo {
+     width: 200px;
+     height: 200px;
+     border-radius: 50%;
+
+
+}
+
+
+.header .title {
+    text-align: center;
+
+}
+
+
+.information {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 100%;
+
+}
+
+
+.information p {
+
+margin: .5rem;
+
+
+}
+
+
